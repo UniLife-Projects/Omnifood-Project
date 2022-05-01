@@ -34,4 +34,4 @@
 
 ## How To Use
 
-> To view, click links above, OR download files and open HTML file.
+> To view, click [here](https://omnifood.dev/), OR on any image, OR download files and open HTML file.[![OmnifoodPicture](Images/1.png)](https://omnifood.dev/) [![OmnifoodPicture](Images/2.png)](https://omnifood.dev/) [![OmnifoodPicture](./Images/3.png)](https://omnifood.dev/) [![OmnifoodPicture](./Images/4.png)](https://omnifood.dev/) [![OmnifoodPicture](Images/5.png)](https://omnifood.dev/) [![OmnifoodPicture](./Images/6.png)](https://omnifood.dev/)
