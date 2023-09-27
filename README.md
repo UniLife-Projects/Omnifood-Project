@@ -34,4 +34,4 @@
 
 ## How To Use
 
-> To view, click [here](https://uche-jordy-omnifood.netlify.app/), OR on any image, OR download files and open HTML file.[![OmnifoodPicture](Images/1.png)](https://omnifood.dev/) [![OmnifoodPicture](Images/2.png)](https://omnifood.dev/) [![OmnifoodPicture](./Images/3.png)](https://omnifood.dev/) [![OmnifoodPicture](./Images/4.png)](https://omnifood.dev/) [![OmnifoodPicture](Images/5.png)](https://omnifood.dev/) [![OmnifoodPicture](./Images/6.png)](https://omnifood.dev/)
+> To view, click [here](https://uche-jordy-omnifood.netlify.app/), OR on any image, OR download files and open HTML file.[![OmnifoodPicture](Images/1.png)](https://uche-jordy-omnifood.netlify.app/) [![OmnifoodPicture](Images/2.png)](https://uche-jordy-omnifood.netlify.app/) [![OmnifoodPicture](./Images/3.png)](https://uche-jordy-omnifood.netlify.app/) [![OmnifoodPicture](./Images/4.png)](https://uche-jordy-omnifood.netlify.app/) [![OmnifoodPicture](Images/5.png)](https://uche-jordy-omnifood.netlify.app/) [![OmnifoodPicture](./Images/6.png)](https://uche-jordy-omnifood.netlify.app/)
