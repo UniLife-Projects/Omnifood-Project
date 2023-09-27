@@ -1,16 +1,16 @@
 # OMNIFOOD
 
-## A responsive website for a fictional company called [Omnifood](https://omnifood.dev/)
+## I built a responsive website for a fictional company called [Omnifood](https://uche-jordy-omnifood.netlify.app/)
 
 ---
 
-> [Omnifood](https://omnifood.dev/) is a startup company that utilises Artificial Intelligence Technology to build and distribute custom healthy meal plans.
+> [Omnifood](https://uche-jordy-omnifood.netlify.app/) is a startup company that utilises Artificial Intelligence Technology to build and distribute custom healthy meal plans.
 
 ---
 
 ###### WHO website is for
 
-> [Omnifood](https://omnifood.dev/) company is the client
+> [Omnifood](https://uche-jordy-omnifood.netlify.app/) company is the client
 
 ---
 
@@ -34,4 +34,4 @@
 
 ## How To Use
 
-> To view, click [here](https://omnifood.dev/), OR on any image, OR download files and open HTML file.[![OmnifoodPicture](Images/1.png)](https://omnifood.dev/) [![OmnifoodPicture](Images/2.png)](https://omnifood.dev/) [![OmnifoodPicture](./Images/3.png)](https://omnifood.dev/) [![OmnifoodPicture](./Images/4.png)](https://omnifood.dev/) [![OmnifoodPicture](Images/5.png)](https://omnifood.dev/) [![OmnifoodPicture](./Images/6.png)](https://omnifood.dev/)
+> To view, click [here](https://uche-jordy-omnifood.netlify.app/), OR on any image, OR download files and open HTML file.[![OmnifoodPicture](Images/1.png)](https://omnifood.dev/) [![OmnifoodPicture](Images/2.png)](https://omnifood.dev/) [![OmnifoodPicture](./Images/3.png)](https://omnifood.dev/) [![OmnifoodPicture](./Images/4.png)](https://omnifood.dev/) [![OmnifoodPicture](Images/5.png)](https://omnifood.dev/) [![OmnifoodPicture](./Images/6.png)](https://omnifood.dev/)
