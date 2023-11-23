@@ -1,4 +1,4 @@
-# OMNIFOOD
+# [OMNIFOOD Delivery 🥒🍉📲](https://uche-jordy-omnifood.netlify.app/)
 
 ## Overview
 [Omnifood](https://uche-jordy-omnifood.netlify.app/) is a responsive web application designed for a fictional food subscription service. This project showcases a blend of advanced web development techniques and artificial intelligence to deliver custom healthy meal plans.
